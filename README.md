@@ -72,4 +72,7 @@ Add an Admin View for a site administrator to the Insuree Views. This page must 
 
 Email all database .mdf and .ldf files to an Instructor. These are located in your project’s app_data folder.
 
+## EFApp
+Create a basic Entity Framework Code-First console application that creates a basic Student database and adds one student.
+
 
